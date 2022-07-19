@@ -1,1 +1,1 @@
-typescript-practice.
+typescript-practi
